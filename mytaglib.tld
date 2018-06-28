@@ -7,7 +7,7 @@
 
     <tlib-version>1.0</tlib-version>
     <short-name>jstl</short-name>
-    <uri>http://ataur.me/jstl</uri>
+    <uri>http://imran.me/jstl</uri>
     <function>
         <name>replaceFirst</name>
         <function-class>me.ataur.bdlaws.util.Functions</function-class>
